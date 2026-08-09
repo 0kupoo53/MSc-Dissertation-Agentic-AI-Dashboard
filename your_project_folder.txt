@@ -1,0 +1,12 @@
+/your_project_folder
+    executive_restaurant_intelligence_dashboard_v2.py
+    agentic_ai_project.ipynb 
+    requirements.txt
+    channel_forecasts.pkl
+    deliveroo_category_forecasts.pkl
+    Public_DigitalChannels_Monthly_Revenue_FinancialYear.csv
+    Public_Aggregator_Monthly_Revenue_FinancialYear.csv
+    Public_Deliveroo_Category_Summary_2023_2025.csv
+    Public_EPOS_Annual_Category_Mix_2023_2025.csv
+    Public_Derived_Consolidated_PnL_2023_2025.csv
+    README.md
